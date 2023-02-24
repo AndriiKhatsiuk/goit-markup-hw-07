@@ -1,0 +1,34 @@
+@media screen and (min-width: 480px) {
+    .container {
+    max-width: 428px;
+    }
+
+    .main {
+      /* max-width: 428px; */
+    }
+
+    .subscribe-item {
+    width: 396px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+}
+
+@media screen and (max-width: 767px) {
+    .team-container {
+    max-width: 264px;
+    }
+
+    .header-list {
+    display: none;
+    }
+
+    .contacts {
+    display: none;
+    }
+
+    .header {
+    display: flex;
+    }
+}
