@@ -16,6 +16,11 @@
 }
 
 @media screen and (max-width: 767px) {
+  .header-container{
+    display: flex;
+    justify-content: space-between;
+  }
+
   .team-container {
     max-width: 264px;
   }
@@ -37,7 +42,6 @@
     background-color: transparent;
     height: 32px;
     padding: 0;
-    margin-right: 16px;
   }
 
   .header-burger-btn-svg {

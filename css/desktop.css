@@ -65,6 +65,17 @@
     margin: 0 auto;
   }
 
+  .customers-header {
+      margin-bottom: 72px;
+      text-align: center;
+      font-size: 36px;
+      line-height: 1.11;
+      letter-spacing: 0.02em;
+      text-transform: capitalize;
+      color: var(--main-dark-color);
+      text-align: center;
+  }
+
   .customers {
     padding: 120px 0;
   }
